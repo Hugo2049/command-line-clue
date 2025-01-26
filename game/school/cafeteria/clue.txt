@@ -1,0 +1,5 @@
+Investigation Update:
+
+You notice fresh footprints leading towards the kitchen.
+
+Remember: Use 'cd "kitchen"' to follow this lead.
