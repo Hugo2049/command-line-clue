@@ -18,7 +18,7 @@
 - No hay ni objeto ni personas en la mansion
 - Fui al jardin y estaba el journalist, habia una pista que me decia que fuera a la cafeteria 
 - Entre a la greenhouse por curiosidad, estaba la librarian
-
+- Entre al colegio, no hay objetos, estaba el The Innkeeper y The Florist 
 
 
 
