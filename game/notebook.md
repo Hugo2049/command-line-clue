@@ -19,7 +19,7 @@
 - Fui al jardin y estaba el journalist, habia una pista que me decia que fuera a la cafeteria 
 - Entre a la greenhouse por curiosidad, estaba la librarian
 - Entre al colegio, no hay objetos, estaba el The Innkeeper y The Florist 
-
+- Entre en la cafeteria y no hay nadie, de objetos me encontre una botella de vidrio y la pista eran pasos hacia la cocina
 
 
 Location of the crime is still unknown - the room must have been empty when it happened...
