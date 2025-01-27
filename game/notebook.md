@@ -23,7 +23,7 @@
 - Encontre al clockmaker en la cocina, no hay ningun objeto y la pista era ir al science lab, por lo que tendre que regresar
 - En el science lab no hay nadie pero habia un paint brush tirado, una pista que me dice que regrese al council chamber 
 - me encontre al banker de camino al council chamber y ningun objeto hasta el momento, 
-
+- Asesinato cometido en el council chamber
 
 
 
