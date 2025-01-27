@@ -1,7 +1,7 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Journalist
+- [x] The Journalist
 - [ ] The Clockmaker
 - [ ] The Police Officer
 
@@ -17,7 +17,7 @@
 - En la carpeta me encontre al jardinero% y no habìa ningun objeto
 - No hay ni objeto ni personas en la mansion
 - Fui al jardin y estaba el journalist, habia una pista que me decia que fuera a la cafeteria 
-
+- Entre a la greenhouse por curiosidad, estaba la librarian
 
 
 
