@@ -13,6 +13,13 @@
 ## Notes
 *Use this space to record your findings and deductions...*
 
-- Genere el juego
+- Como pista se supone que el night watchman hablo con el jardinero de ver a alguien lurkeando por el jardin
+- En la carpeta me encontre al jardinero% y no habìa ningun objeto
+
+
+
+
+
+
 
 Location of the crime is still unknown - the room must have been empty when it happened...
