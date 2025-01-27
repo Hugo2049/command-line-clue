@@ -2,7 +2,7 @@
 
 ## Suspects
 - [x] The Journalist
-- [ ] The Clockmaker
+- [x] The Clockmaker
 - [ ] The Police Officer
 
 ## Weapons
@@ -20,6 +20,15 @@
 - Entre a la greenhouse por curiosidad, estaba la librarian
 - Entre al colegio, no hay objetos, estaba el The Innkeeper y The Florist 
 - Entre en la cafeteria y no hay nadie, de objetos me encontre una botella de vidrio y la pista eran pasos hacia la cocina
+- Encontre al clockmaker en la cocina, no hay ningun objeto y la pista era ir al science lab, por lo que tendre que regresar
+
+
+
+
+
+
+
+
 
 
 Location of the crime is still unknown - the room must have been empty when it happened...
